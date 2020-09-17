@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">CovidTracker</string>
+    <string name="app_name">Covid-19 tracing</string>
+    <string name="_intro_msg">Hello from the main activity layout!</string>
 </resources>
